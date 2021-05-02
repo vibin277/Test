@@ -30,7 +30,7 @@
                        <muleVersion>4.3.0</muleVersion>
                        <username>vibzz001</username>
                        <password>Vibin007</password>
-                       <applicationName>mule-ag-size</applicationName>
+                       <applicationName>mule-aggreator-size</applicationName>
                        <environment>Sandbox</environment>
 					   <workerType>MICRO</workerType>
                        <objectStoreV2>true</objectStoreV2>
