@@ -32,6 +32,8 @@
                        <password>Vibin007</password>
                        <applicationName>mule-ag-size</applicationName>
                        <environment>Sandbox</environment>
+					   <workerType>MICRO</workerType>
+                       <objectStoreV2>true</objectStoreV2>
  
                 </cloudHubDeployment>
 				</configuration>
