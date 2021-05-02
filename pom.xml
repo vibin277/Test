@@ -32,11 +32,11 @@
 				<configuration>
 				<cloudHubDeployment>
                        <uri>https://anypoint.mulesoft.com</uri>
-                       <muleVersion>${mule.version}</muleVersion>
-                       <username>${username}</username>
-                       <password>${password}</password>
-                       <applicationName>mule-size-agg</applicationName>
-                       <environment>${environment}</environment>
+                       <muleVersion>4.3.0</muleVersion>
+                       <username>vibzz001</username>
+                       <password>Vibin007</password>
+                       <applicationName>mule-ag-size</applicationName>
+                       <environment>Sandbox</environment>
  
                 </cloudHubDeployment>
 				</configuration>
